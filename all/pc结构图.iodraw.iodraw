@@ -13,6 +13,9 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="train.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="385" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9k43rejrjPCL_jX5C-TF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-eqjsmBNg9lnOjIUGcw-2" target="9k43rejrjPCL_jX5C-TF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="inference.py" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="383.75" width="70" height="42.5" as="geometry" />
         </mxCell>
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-15" value="损失曲线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="468" width="57.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9k43rejrjPCL_jX5C-TF-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
