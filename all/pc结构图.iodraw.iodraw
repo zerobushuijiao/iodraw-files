@@ -10,26 +10,8 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="train" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="385" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-2" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="inference" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="383.75" width="70" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-4" target="5-eqjsmBNg9lnOjIUGcw-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-19" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-4" value="模型推理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="383.13" width="90" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-11" value="泄漏状态" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="563.13" y="450" width="103.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-19" value="模型&lt;div&gt;网络选择&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="573.75" y="310" width="82.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0FnYVuNjCdT3ARCINHVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-1" target="5-eqjsmBNg9lnOjIUGcw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
