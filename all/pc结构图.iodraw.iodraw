@@ -20,7 +20,7 @@
           <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-1" value="StarNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-4" value="训练集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="378" width="60" height="30" as="geometry" />
@@ -33,10 +33,13 @@
             <mxPoint x="410" y="460" as="sourcePoint" />
             <mxPoint x="460" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="460" />
+              <mxPoint x="268" y="460" />
               <mxPoint x="545" y="460" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9k43rejrjPCL_jX5C-TF-7" value="测试集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="438" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
