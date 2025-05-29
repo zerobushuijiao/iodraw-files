@@ -34,21 +34,8 @@
         <mxCell id="0FnYVuNjCdT3ARCINHVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-1" target="5-eqjsmBNg9lnOjIUGcw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0FnYVuNjCdT3ARCINHVj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="0FnYVuNjCdT3ARCINHVj-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="泄露状态检测" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="dataset" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
-        </mxCell>
-        <mxCell id="0FnYVuNjCdT3ARCINHVj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="0FnYVuNjCdT3ARCINHVj-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312.5" y="480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0FnYVuNjCdT3ARCINHVj-8" value="阿里云平台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
