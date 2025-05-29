@@ -7,13 +7,15 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9k43rejrjPCL_jX5C-TF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="9k43rejrjPCL_jX5C-TF-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9k43rejrjPCL_jX5C-TF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="train.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="385" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="inference" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="inference.py" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="383.75" width="70" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="0FnYVuNjCdT3ARCINHVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-1" target="5-eqjsmBNg9lnOjIUGcw-1" edge="1">
@@ -22,7 +24,7 @@
         <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="dataset.py" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
         </mxCell>
-        <mxCell id="9k43rejrjPCL_jX5C-TF-1" value="StarNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k43rejrjPCL_jX5C-TF-1" value="StarNet.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-4" value="训练集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -60,9 +62,6 @@
             <mxPoint x="460" y="420" as="sourcePoint" />
             <mxPoint x="475" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9k43rejrjPCL_jX5C-TF-13" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;Courier New&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;损失曲线&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
