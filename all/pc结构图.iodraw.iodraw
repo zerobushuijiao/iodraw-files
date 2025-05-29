@@ -13,7 +13,7 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-2" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="数据预处理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="inference" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="383.75" width="70" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-4" target="5-eqjsmBNg9lnOjIUGcw-11" edge="1">
