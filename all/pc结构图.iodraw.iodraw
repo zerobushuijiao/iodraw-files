@@ -7,11 +7,12 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9k43rejrjPCL_jX5C-TF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="9k43rejrjPCL_jX5C-TF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.392;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9k43rejrjPCL_jX5C-TF-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="350" as="sourcePoint" />
             <mxPoint x="399.9985057471265" y="386.56" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="443" y="332" />
               <mxPoint x="443" y="360" />
               <mxPoint x="401" y="360" />
               <mxPoint x="401" y="387" />
@@ -31,7 +32,7 @@
           <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-1" value="StarNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5-eqjsmBNg9lnOjIUGcw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
