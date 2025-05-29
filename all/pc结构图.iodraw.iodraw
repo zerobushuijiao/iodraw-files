@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="vpDQUdqtV4K_Zt0pI-OC">
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="原始音频数据（wav）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="385" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-2" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-2" value="数据预处理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="383.75" width="70" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-4" target="5-eqjsmBNg9lnOjIUGcw-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-19" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-4" value="模型推理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="383.13" width="90" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-11" value="泄漏状态" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="563.13" y="450" width="103.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-19" value="模型&lt;div&gt;网络选择&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="573.75" y="310" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-1" target="5-eqjsmBNg9lnOjIUGcw-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-4" target="0FnYVuNjCdT3ARCINHVj-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="泄露状态检测" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-4" target="0FnYVuNjCdT3ARCINHVj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-4" target="0FnYVuNjCdT3ARCINHVj-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-4" value="数据上传模块" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="460" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-6" value="树莓派状态检测" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="530" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-8" value="阿里云平台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
