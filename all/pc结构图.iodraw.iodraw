@@ -7,7 +7,7 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="原始音频数据（wav）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="train" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="385" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-2" target="5-eqjsmBNg9lnOjIUGcw-4" edge="1">
