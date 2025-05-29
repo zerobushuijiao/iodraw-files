@@ -7,9 +7,6 @@
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9k43rejrjPCL_jX5C-TF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="9k43rejrjPCL_jX5C-TF-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5-eqjsmBNg9lnOjIUGcw-1" value="train" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="385" width="90" height="40" as="geometry" />
         </mxCell>
@@ -42,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-7" value="测试集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="670" y="438" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.443;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.576;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5-eqjsmBNg9lnOjIUGcw-1" target="5-eqjsmBNg9lnOjIUGcw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
