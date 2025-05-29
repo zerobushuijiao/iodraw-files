@@ -19,7 +19,7 @@
         <mxCell id="0FnYVuNjCdT3ARCINHVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0FnYVuNjCdT3ARCINHVj-1" target="5-eqjsmBNg9lnOjIUGcw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="dataset" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0FnYVuNjCdT3ARCINHVj-1" value="dataset.py" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="386.56" width="90" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="9k43rejrjPCL_jX5C-TF-1" value="StarNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
