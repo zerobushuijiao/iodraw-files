@@ -22,8 +22,8 @@
         <mxCell id="gX1nBrpaGTsQdGBltRGl-4" value="预处理音频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="131" width="69" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="gX1nBrpaGTsQdGBltRGl-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="217" width="120" height="60" as="geometry" />
+        <mxCell id="gX1nBrpaGTsQdGBltRGl-6" value="模型推理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="172" width="60.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
