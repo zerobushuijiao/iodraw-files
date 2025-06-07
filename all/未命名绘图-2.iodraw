@@ -28,8 +28,14 @@
         <mxCell id="gX1nBrpaGTsQdGBltRGl-6" value="模型推理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375.75" y="172" width="60.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="gX1nBrpaGTsQdGBltRGl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gX1nBrpaGTsQdGBltRGl-8" target="gX1nBrpaGTsQdGBltRGl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-8" value="processed文件夹存在？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="321" y="209" width="157" height="54" as="geometry" />
+          <mxGeometry x="327.5" y="209" width="157" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="gX1nBrpaGTsQdGBltRGl-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
