@@ -7,8 +7,8 @@
         <mxCell id="kB7DayFfG2miehnjJYNB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kB7DayFfG2miehnjJYNB-2" target="kB7DayFfG2miehnjJYNB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kB7DayFfG2miehnjJYNB-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332" y="89" width="148" height="25" as="geometry" />
+        <mxCell id="kB7DayFfG2miehnjJYNB-2" value="将特征数据转移到正确的设备上" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="89" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kB7DayFfG2miehnjJYNB-4" target="kB7DayFfG2miehnjJYNB-6">
           <mxGeometry relative="1" as="geometry" />
