@@ -34,7 +34,7 @@
         <mxCell id="kB7DayFfG2miehnjJYNB-19" value="输出检测结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="366.5" y="309" width="78" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="kB7DayFfG2miehnjJYNB-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kB7DayFfG2miehnjJYNB-21" value="确定推理设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="343.75" y="73" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
