@@ -22,8 +22,14 @@
         <mxCell id="kB7DayFfG2miehnjJYNB-6" value="执行推理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375.75" y="172" width="60.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kB7DayFfG2miehnjJYNB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kB7DayFfG2miehnjJYNB-17" target="kB7DayFfG2miehnjJYNB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-17" value="计算置信度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="209" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="209" width="64" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="kB7DayFfG2miehnjJYNB-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="278.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
