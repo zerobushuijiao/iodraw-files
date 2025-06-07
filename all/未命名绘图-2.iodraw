@@ -34,6 +34,9 @@
         <mxCell id="gX1nBrpaGTsQdGBltRGl-8" value="processed文件夹存在？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="209" width="157" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="gX1nBrpaGTsQdGBltRGl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gX1nBrpaGTsQdGBltRGl-10" target="gX1nBrpaGTsQdGBltRGl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-10" value="创建processed文件夹" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="296" width="118" height="23" as="geometry" />
         </mxCell>
@@ -44,11 +47,12 @@
             <Array as="points">
               <mxPoint x="406" y="283" />
               <mxPoint x="485" y="281" />
+              <mxPoint x="511" y="333" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-13" value="移动文件至processed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="330" width="122" height="23" as="geometry" />
+          <mxGeometry x="345" y="350" width="122" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
