@@ -40,19 +40,14 @@
         <mxCell id="gX1nBrpaGTsQdGBltRGl-10" value="创建processed文件夹" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="296" width="118" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="gX1nBrpaGTsQdGBltRGl-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gX1nBrpaGTsQdGBltRGl-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444" y="333" as="sourcePoint" />
-            <mxPoint x="486" y="294" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="406" y="283" />
-              <mxPoint x="485" y="281" />
-              <mxPoint x="511" y="333" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-13" value="移动文件至processed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="350" width="122" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="gX1nBrpaGTsQdGBltRGl-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="263" as="sourcePoint" />
+            <mxPoint x="494" y="271" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
