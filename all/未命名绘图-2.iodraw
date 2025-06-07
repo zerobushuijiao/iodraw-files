@@ -35,7 +35,12 @@
           <mxGeometry x="327.5" y="209" width="157" height="54" as="geometry" />
         </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gX1nBrpaGTsQdGBltRGl-10" target="gX1nBrpaGTsQdGBltRGl-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="339" />
+              <mxPoint x="408" y="339" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gX1nBrpaGTsQdGBltRGl-10" value="创建processed文件夹" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="296" width="118" height="23" as="geometry" />
@@ -46,7 +51,7 @@
         <mxCell id="gX1nBrpaGTsQdGBltRGl-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="263" as="sourcePoint" />
-            <mxPoint x="494" y="271" as="targetPoint" />
+            <mxPoint x="407" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
