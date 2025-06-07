@@ -35,7 +35,7 @@
           <mxGeometry x="366.5" y="309" width="78" height="19" as="geometry" />
         </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-21" value="确定推理设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="343.75" y="73" width="120" height="60" as="geometry" />
+          <mxGeometry x="364.25" y="96" width="78.25" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
