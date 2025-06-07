@@ -7,7 +7,7 @@
         <mxCell id="kB7DayFfG2miehnjJYNB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kB7DayFfG2miehnjJYNB-2" target="kB7DayFfG2miehnjJYNB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kB7DayFfG2miehnjJYNB-2" value="将特征数据转移到正确的设备上" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kB7DayFfG2miehnjJYNB-2" value="加载特征数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="321" y="84" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kB7DayFfG2miehnjJYNB-4" target="kB7DayFfG2miehnjJYNB-6">
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-17" value="计算置信度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375.75" y="209" width="64" height="13" as="geometry" />
+          <mxGeometry x="374" y="215" width="64" height="13" as="geometry" />
         </mxCell>
         <mxCell id="kB7DayFfG2miehnjJYNB-19" value="输出检测结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="368.75" y="243" width="78" height="19" as="geometry" />
